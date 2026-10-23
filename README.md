@@ -24,9 +24,7 @@ The repository is anonymized for double-blind review.
 
 ## Video demonstration
 
-[![Still frame from the video demonstration: the WebShop shop on the left and PREFLOW's panel on the right, listing coat options. Select the image to play the video, about 8 minutes.](figures/video_thumbnail.png)](video/preflow_demod.mp4)
-
-<video src="video/preflow_demod.mp4"  controls width="100%"></video>
+[Watch the demo](https://github.com/user-attachments/assets/5c77f921-16ce-4494-9c83-95021fbd23e8.)
 
 **[Play the video (about 8 minutes)](video/preflow_demo.mp4)**
 

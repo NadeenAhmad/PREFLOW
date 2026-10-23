@@ -47,9 +47,9 @@ The steps below follow the video in order, so it can also be followed without wa
 
 ### The same kind of task as a still image
 
-![A screenshot of the BLV study's interface. On the left, a WebShop results page shows four folding desks with their prices, colors, and whether they come assembled, and below them is a simulated purchase confirmation for the black folding office desk at $349.99. On the right, PREFLOW's panel shows the conversation: PREFLOW asks for the user's budget and whether the desk should come fully assembled, offers three options with what each meets and misses, describes a desk's photo, rechecks the desks after the user lowers the budget to under 350 dollars, asks whether black or fully assembled matters more, previews the purchase with the unmet preference, and confirms the simulated purchase.](figures/nora_conversation.png)
+![A screenshot of the BLV study's interface. On the left, a WebShop results page shows four folding desks with their prices, colors, and whether they come assembled, and below them is a simulated purchase confirmation for the black folding office desk at $349.99. On the right, PREFLOW's panel shows the conversation: PREFLOW asks for the user's budget and whether the desk should come fully assembled, offers three options with what each meets and misses, describes a desk's photo, rechecks the desks after the user lowers the budget to under 350 dollars, asks whether black or fully assembled matters more, previews the purchase with the unmet preference, and confirms the simulated purchase.](figures/nora_conversation.jpg)
 
-*Nora's task from the paper's introduction in the study's interface (Figure S2 of the supplementary material). Section S1 follows the same task through every part of PREFLOW.*
+*Nora's (blind persona) task from the paper's introduction in the study's interface (Figure S2 of the supplementary material). Section S1 follows the same task through every part of PREFLOW.*
 
 ## Supplementary material
 

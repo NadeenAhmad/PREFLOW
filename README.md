@@ -71,7 +71,11 @@ The steps below follow the video in order, so it can also be followed without wa
 
 ## Code
 
-[`code/`](code/) contains PREFLOW and the scripts that run it on WebShop and EComAgentBench, with the settings used in the paper. [`code/README.md`](code/README.md) explains the layout and how to run it. The key settings are also listed in Table S5 of the supplementary material.
+[`code/`](code/) contains PREFLOW and the scripts that run it on WebShop and EComAgentBench, with the settings used in the paper. The key settings are also listed in Table S5 of the supplementary material.
+
+## Results and data
+
+The paper and the supplementary material report all results. The per-task outputs of the benchmark runs (WebShop and EComAgentBench) will be released with the code upon acceptance. From the BLV study, the paper and the supplementary material report averages and each participant's differences; session logs and questionnaire answers are not shared to protect the participants' privacy.
 
 ## Terms of use
 

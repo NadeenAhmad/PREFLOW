@@ -26,6 +26,8 @@ The repository is anonymized for double-blind review.
 
 [![Still frame from the video demonstration: the WebShop shop on the left and PREFLOW's panel on the right, listing coat options. Select the image to play the video, about 8 minutes.](figures/video_thumbnail.png)](video/preflow_demod.mp4)
 
+<video src="video/preflow_demod.mp4"  controls width="100%"></video>
+
 **[Play the video (about 8 minutes)](video/preflow_demo.mp4)**
 
 The video shows PREFLOW in the BLV study interface: the shop on the left and PREFLOW's panel on the right. The user's messages are scripted (written in advance); the user is neither a study participant nor an AI model. The video was recorded in real time and is not sped up or edited. The shop is WebShop, a research shop; nothing is really bought.

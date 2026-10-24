@@ -27,22 +27,22 @@ The repository is anonymized for double-blind review.
 
 **[Play the video (about 8 minutes)](https://github.com/NadeenAhmad/PREFLOW/issues/2#issue-6009093628)**
 
-The video shows PREFLOW in the BLV study interface: the shop on the left and PREFLOW's panel on the right. The user's messages are scripted (written in advance); the user is neither a study participant nor an AI model. The video was recorded in real time and is not sped up or edited. The shop is WebShop, a research shop; nothing is really bought.
+The video shows PREFLOW in the BLV study interface: the WebShop research shop on the left and PREFLOW’s panel on the right. For anonymity, the screen reader is muted, and no dictation is used. The purple box shows PREFLOW’s agent activity; the user does not navigate the webshop themselves. The video was recorded in real time and is not sped up or edited. No real purchase is made.
 
-The steps below follow the video in order, so it can also be followed without watching it.
+The steps below follow the video in order:
 
-1. The user asks for a black women's coat, classic in style, for a trip to a cold city.
-2. PREFLOW answers a general question as advice, asks about missing details such as size and budget, and summarizes the request.
-3. PREFLOW searches the shop and reports its progress in a status region. Products whose photos show a different product are not offered.
-4. PREFLOW presents the options: what they share, then what sets each apart. The options form a radio group that can be browsed with the arrow keys.
-5. PREFLOW reports details that only the photo shows, and says so ("the photo shows …").
-6. PREFLOW recommends an option and gives its reasons.
-7. PREFLOW describes a product photo for someone who cannot see it.
-8. PREFLOW compares products in a table that screen readers can navigate.
-9. PREFLOW finds more options that the user has not heard yet.
-10. The user's budget drops. PREFLOW rechecks the previously heard options against the new budget.
-11. PREFLOW lists the colors of the chosen option and answers several questions asked in one message.
-12. The user chooses a size and color. PREFLOW previews the purchase, including the preference that the product page does not confirm, and buys only after the user approves. The purchase is simulated.
+1. The user asks for warm women’s winter boots for lots of walking on a cold city trip.
+2. PREFLOW answers a general question about boot styles, asks for missing details such as size, style, and budget, and summarizes the request before searching.
+3. PREFLOW searches the shop while reporting its progress.
+4. PREFLOW presents three options in a radio group that can be explored with the arrow keys without sending a message.
+5. The user asks for more details about an option, including information visible only in the product photo.
+6. PREFLOW recommends an option for extensive walking and explains why.
+7. PREFLOW describes a product photo for a user who cannot see it.
+8. PREFLOW compares the options in a screen-reader-accessible table.
+9. PREFLOW searches for additional options the user has not heard yet.
+10. When the user lowers the budget from $45 to $35, PREFLOW rechecks the options against the new limit.
+11. PREFLOW reports the available colors and answers several product questions asked in one message.
+12. The user selects size 8 and black. PREFLOW previews the purchase and asks for confirmation before completing a simulated purchase.
 
 ### The same kind of task as a still image
 

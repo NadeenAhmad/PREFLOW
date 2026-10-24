@@ -23,9 +23,9 @@ The repository is anonymized for double-blind review.
 
 ## Video demonstration
 
-[Watch the demo](https://github.com/user-attachments/assets/5c77f921-16ce-4494-9c83-95021fbd23e8.)
 
-**[Play the video (about 8 minutes)](https://github.com/user-attachments/assets/5c77f921-16ce-4494-9c83-95021fbd23e8)**
+
+**[Play the video (about 8 minutes)](https://github.com/NadeenAhmad/PREFLOW/issues/2#issue-6009093628)**
 
 The video shows PREFLOW in the BLV study interface: the shop on the left and PREFLOW's panel on the right. The user's messages are scripted (written in advance); the user is neither a study participant nor an AI model. The video was recorded in real time and is not sped up or edited. The shop is WebShop, a research shop; nothing is really bought.
 

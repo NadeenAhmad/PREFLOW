@@ -25,7 +25,7 @@ The repository is anonymized for double-blind review.
 
 
 
-**[Play the video (about 8 minutes)](https://github.com/NadeenAhmad/PREFLOW/issues/2#issue-6009093628)**
+**[Play the video (about 8 minutes)](https://github.com/user-attachments/assets/808692e7-fdeb-47e1-9744-5be6fa848949)**
 
 The video shows PREFLOW in the BLV study interface: the WebShop research shop on the left and PREFLOW’s panel on the right. For anonymity, the screen reader is muted, and no dictation is used. The purple box shows PREFLOW’s agent activity; the user does not navigate the webshop themselves. The video was recorded in real time and is not sped up or edited. No real purchase is made.
 

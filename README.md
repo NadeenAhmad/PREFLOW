@@ -8,7 +8,6 @@ The repository is anonymized for double-blind review.
 
 | What | Where | Size |
 |---|---|---|
-| Video demonstration | [`video/preflow_demo.mp4`](video/preflow_demo.mp4) | about 8 minutes |
 | Supplementary material | [`supplementary_material.pdf`](supplementary_material.pdf) | 13 pages |
 | Code of PREFLOW | [`code/`](code/) (start with [`code/README.md`](code/README.md)) | |
 | Figures shown below | [`figures/`](figures/) | |

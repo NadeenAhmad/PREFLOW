@@ -27,7 +27,7 @@ The repository is anonymized for double-blind review.
 
 **[Play the video (about 8 minutes)](./preflow_demo_anonymous.mp4)**
 
-The video shows PREFLOW in the BLV study interface: the WebShop research shop on the left and PREFLOW’s panel on the right. For anonymity, the screen reader is muted, and no dictation is used. The purple box shows PREFLOW’s agent activity; the user does not navigate the webshop themselves. The video was recorded in real time and is not sped up or edited. No real purchase is made.
+The video shows PREFLOW in the BLV study interface: the WebShop research shop on the left and PREFLOW’s panel on the right. For anonymity, the screen reader is muted, and no dictation is used. The purple box shows PREFLOW’s agent activity; the user does not navigate the webshop themselves. The video was recorded in real time. No real purchase is made.
 
 The steps below follow the video in order:
 

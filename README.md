@@ -9,7 +9,7 @@ The repository is anonymized for double-blind review.
 | What | Where | Size |
 |---|---|---|
 | Supplementary material | [`supplementary_material.pdf`](supplementary_material.pdf) | 13 pages |
-| Code of PREFLOW | [`code/`](code/) (start with [`code/README.md`](code/README.md)) | |
+| Code of PREFLOW | code.zip | |
 | Figures shown below | [`figures/`](figures/) | |
 | Terms of use | [`LICENSE`](LICENSE) | |
 
@@ -70,7 +70,7 @@ The steps below follow the video in order:
 
 ## Code
 
-[`code/`](code/) contains PREFLOW and the scripts that run it on WebShop and EComAgentBench, with the settings used in the paper. The key settings are also listed in Table S5 of the supplementary material.
+Contains PREFLOW and the scripts that run it on WebShop and EComAgentBench, with the settings used in the paper. The key settings are also listed in Table S5 of the supplementary material.
 
 ## Results and data
 

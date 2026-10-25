@@ -6,12 +6,12 @@ The repository is anonymized for double-blind review.
 
 ## Contents
 
-| What | Where | Size |
-|---|---|---|
-| Supplementary material | [`supplementary_material.pdf`](supplementary_material.pdf) | 13 pages |
+| What | Where | 
+|---|---|
+| Supplementary material | [`supplementary_material.pdf`](supplementary_material.pdf) | 
 | Code of PREFLOW | code.zip | |
-| Figures shown below | [`figures/`](figures/) | |
-| Terms of use | [`LICENSE`](LICENSE) | |
+| Figures shown below | [`figures/`](figures/) | 
+| Terms of use | [`LICENSE`](LICENSE) | 
 
 **If you have ten minutes:** watch the video, look at the architecture below, then read Section S1 of the supplementary material, which follows one task through every part of PREFLOW.
 
